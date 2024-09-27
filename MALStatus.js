@@ -2,13 +2,13 @@
 // @name         MALStatus
 // @version      1.1.0
 // @description
-// @author
+// @author       Woreec
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @namespace
 // @match        https://myanimelist.net/*
-// @downloadURL
-// @updateURL
+// @downloadURL  https://github.com/Woreec/MALStatus/blob/main/MALStatus.js
+// @updateURL    https://github.com/Woreec/MALStatus/blob/main/MALStatus.js
 // ==/UserScript==
 
 
