@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         MALStatus
-// @version      1.1.0
+// @version      1.1.1
 // @description
 // @author       Woreec
 // @grant        GM_setValue
