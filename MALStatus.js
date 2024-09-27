@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         MALStatus
-// @version      1.1.2
+// @version      1.1.3
 // @description
 // @author       Woreec
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @namespace
+// @namespace    https://github.com/Woreec/MALStatus
 // @match        https://myanimelist.net/*
 // @downloadURL  https://raw.githubusercontent.com/Woreec/MALStatus/refs/heads/main/MALStatus.js
 // @updateURL    https://raw.githubusercontent.com/Woreec/MALStatus/refs/heads/main/MALStatus.js
