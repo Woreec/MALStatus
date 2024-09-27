@@ -7,8 +7,8 @@
 // @grant        GM_getValue
 // @namespace
 // @match        https://myanimelist.net/*
-// @downloadURL  https://github.com/Woreec/MALStatus/blob/main/MALStatus.js
-// @updateURL    https://github.com/Woreec/MALStatus/blob/main/MALStatus.js
+// @downloadURL  https://raw.githubusercontent.com/Woreec/MALStatus/refs/heads/main/MALStatus.js
+// @updateURL    https://raw.githubusercontent.com/Woreec/MALStatus/refs/heads/main/MALStatus.js
 // ==/UserScript==
 
 
