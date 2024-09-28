@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         MALStatus
-// @version      1.1.2
+// @version      1.1.3
 // @description
 // @author       Woreec
 // @grant        GM_setValue
@@ -22,7 +22,7 @@ function StatusScript() {
     // Anime Seasonal
     if (LOCATION_HREF.includes('https://myanimelist.net/anime/season')) {
         let results = document.getElementsByClassName('link-title');
-        for (let i = 0; i < results.length; i++) {
+        for (let i = 0; i < results.length && i < 72; i++) {
             if (!document.getElementById('status' + i)) {
                 let url = results[i].href;
                 let urlDecoded = decodeURIComponent(url);
